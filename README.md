@@ -1,35 +1,34 @@
-
-Kozmoz 🪐 is an interaction design and development agency from Istanbul, Turkey, working with global and local clients.
+🪐 Kozmoz is an interaction design and development agency from Istanbul, Turkey, working with 🌍 global clients.
 Focusing on digital product design and development. 
 
 - Design :
-  Visual communication,
-  User interface,
-  User experience,
-  Physical interaction,
+  Visual communication
+  User interface
+  User experience
+  Physical interaction
 
 - Develop : 
-  Web and Desktop Applications,
+  Web and Desktop Applications
   API dev. integration , 
   IoT applications,
   Art installations
   Blockchain and NTF's
   
 - Using : 
-  HTML, Javascript, CSS, SASS,
+  HTML, Javascript, CSS, SASS
   NodeJS, 
   PHP,
   Processing, P5JS,
-  Ardiuno,
+  Ardiuno
   Digital Electronics and Hardware
 
 - With : 
   Laravel,
   Wordpress CMS,
   Kirby CMS,
-  Electron,
-  Openframeworks,
-  Arduino,
+  Electron
+  Openframeworks
+  Arduino
   Fritzing
 
 
